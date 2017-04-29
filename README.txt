@@ -2,7 +2,6 @@
 
 This is te first file in this repo
 
-## Ipsum Below
+## Website Contents
 
-Xddd
-I can do this all day
+1. index.html
